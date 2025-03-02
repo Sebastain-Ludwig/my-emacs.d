@@ -1,6 +1,6 @@
 **An extremely simple Emacs configuration**
 
-I am a lisp programmer. Most of configurations are specially for using sbcl and \LaTeX
+I am a lisp programmer. Most of configurations are specially for using sbcl and $\LaTeX$
 
 1. Theme: Nord
 2. Completion: corf+orderless+cape
